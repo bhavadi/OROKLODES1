@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\OSSZ\INFO\OROKLODES1\OROKLODES\obj\Debug\OROKLODES.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OSSZ\INFO\OROKLODES1\OROKLODES\obj\Debug\OROKLODES.csproj.CoreCompileInputs.cache
